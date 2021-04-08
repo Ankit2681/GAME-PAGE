@@ -1,0 +1,25 @@
+body {
+    margin: 0%;
+    background: url(https://media.giphy.com/media/qxIpwGtYS2YKIGrXh3/giphy.gif);
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 900px;
+    background-position: top;
+}
+.navbars ol li{
+    color: whitesmoke;
+    font-family: fantasy;
+    list-style: none;
+    display: inline;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.navbars {
+    text-align: end;
+}
+
+.navbars a {
+    text-decoration: none;
+    color: whitesmoke;
+}

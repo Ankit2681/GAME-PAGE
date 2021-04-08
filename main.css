@@ -1,0 +1,18 @@
+body {
+    margin: 0%;
+    background-color: black;
+}
+.games {
+    display: flex;
+    flex-wrap: wrap;
+}
+.games a img {
+    width: 400px;
+    margin: 15px;
+    transition: 0.8s;
+}
+.games a img:hover {
+    -webkit-transform: scale(1.2,1.2);
+    -ms-transform: scale(1.2,1.2);
+    transform: scale(1.2,1.2);
+}

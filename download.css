@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    background-color: black;
+}
+.navbars ol li{
+    color: whitesmoke;
+    font-family: fantasy;
+    list-style: none;
+    display: inline;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.navbars {
+    text-align: start;
+}
+
+.navbars a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+.link {
+    margin:  80px;
+}
+.link a {
+    color: red;
+    font-size: 30px;
+
+}
+.link label {
+    color: whitesmoke;
+    font-size: 30px;
+}

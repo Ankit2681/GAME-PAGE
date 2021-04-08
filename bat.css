@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background: url(images/batman.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+.navbars ol li{
+    color: whitesmoke;
+    font-family: fantasy;
+    list-style: none;
+    display: inline;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.navbars {
+    text-align: start;
+}
+
+.navbars a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+.content img {
+    margin-left: 40px;
+    margin-top: 25px;
+    width: 550px;
+}

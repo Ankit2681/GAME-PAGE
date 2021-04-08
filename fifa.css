@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    background: url(images/fifa20.png);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+.navbars ol li{
+    color: whitesmoke;
+    font-family: fantasy;
+    list-style: none;
+    display: inline;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.navbars {
+    text-align: end;
+    margin-right: 30px;
+}
+
+.navbars a {
+    text-decoration: none;
+    color: whitesmoke;
+}
